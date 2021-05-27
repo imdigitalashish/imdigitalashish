@@ -3,7 +3,7 @@
 
 #### I'm a Full-Stack Android AI Data Developer based in India
 
-- 🏢 I'm  studying in class 9
+- 🏢 I'm  studying in class 10
 - ⚙️ I use daily: `.py`, `.js`, `.java`, `.dart`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.postgresql`, `.sql`
 - 🌍 I support linux because its amazing
 - 💅 Want to work at: **Google**
