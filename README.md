@@ -4,7 +4,7 @@
 #### I'm a Full-Stack Android AI Data Developer based in India
 
 - 🏢 I'm  studying in class 10
-- ⚙️ I use daily: `.py`, `.js`, `.java`, `.dart`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.postgresql`, `.sql`
+- ⚙️ I use daily: `.py`, `.js`, `.java`, `.ng`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.postgresql`, `.sql`, `.php`
 - 🌍 I support linux because its amazing
 - 💅 Want to work at: **Google**
 - 🌱 Learning more about and studying: **Open Source, Angular, CS Algorithms, Machine learning, AI, API, and Space tech**
