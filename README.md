@@ -18,9 +18,6 @@
 ---
 
 
-![Ashish Github Stats](https://github-readme-stats.vercel.app/api?username=imdigitalashish&show_icons=true&include_all_commits=true&theme=radical)
-
-![Ashish Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=imdigitalashish&layout=compact&theme=radical)
 
 [![Ashish github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=imdigitalashish&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
