@@ -3,7 +3,7 @@
 
 #### I'm a Full-Stack Android AI Data Developer based in India
 - Speciality - Creating Products with Performance and Intelligence !
-- 🏢 I'm  studying in class 11
+- 🏢 I'm  studying in class 12
 - ⚙️ I use daily: `.py`, `.js`, `.java`, `.ng`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.postgresql`, `.sql`, `.php`,  `.rs`, `nextjs`, `.go`, `.dart`
 - 🌍 I support linux because its amazing
 - 💅 Want to work at: **People**
