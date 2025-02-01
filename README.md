@@ -1,7 +1,7 @@
 ### Hi, I'm Ashish 👋
 ---
 
-#### I'm a Full-Stack Android AI Data Developer based in India
+#### I'm a Explorer based in India
 - Speciality - Creating Products with Performance and Intelligence !
 - 🏢 I'm  studying in IIT Delhi, Engineering Physics
 - ⚙️ I use daily: `.py`, `.js`, `.java`, `.ng`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.postgresql`, `.sql`, `.php`,  `.rs`, `nextjs`, `.go`, `.dart`
