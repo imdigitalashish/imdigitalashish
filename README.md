@@ -1,8 +1,9 @@
 ### Hi, I'm Ashish 👋
 ---
+Engineer At Microsoft 
 
 #### I'm a Explorer based in India
-- 🏢 I'm  studying in IIT Delhi, Engineering Physics
+- 🏢 Dropout from IIT Delhi, Engineering Physics
 - Want to know about me? https://ashishkumar.space
 - I love everything in tech
 - 🌍 I support linux because its amazing
